@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\pharmacy management\\pharmacy management\\managementofpharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|solutionrelative:pharmacy management\\managementofpharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\pharmacy management\\pharmacy management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|solutionrelative:pharmacy management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\pharmacy management\\pharmacy management\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|solutionrelative:pharmacy management\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\pharmacy management\\pharmacy management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|solutionrelative:pharmacy management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\pharmacy management\\pharmacy management\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DFE361-EFCD-4CAF-8882-9FF0376AB982}|Pharmacy Management\\Pharmacy Management.csproj|solutionrelative:pharmacy management\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagementOfPharmacy.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\ManagementOfPharmacy.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management\\ManagementOfPharmacy.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\ManagementOfPharmacy.cs",
+              "RelativeToolTip": "Pharmacy Management\\ManagementOfPharmacy.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:09:54.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Shelf.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management\\Shelf.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Shelf.cs",
+              "RelativeToolTip": "Pharmacy Management\\Shelf.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:46:34.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Medicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management\\Medicine.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Medicine.cs",
+              "RelativeToolTip": "Pharmacy Management\\Medicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:42:28.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Entity.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management\\Entity.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Entity.cs",
+              "RelativeToolTip": "Pharmacy Management\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:40:00.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Pharmacy Management\\Pharmacy Management\\Program.cs",
+              "RelativeToolTip": "Pharmacy Management\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:37:26.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

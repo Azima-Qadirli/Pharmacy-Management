@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\bin\Debug\net8.0\Pharmacy Management.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\bin\Debug\net8.0\Pharmacy Management.deps.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\bin\Debug\net8.0\Pharmacy Management.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\bin\Debug\net8.0\Pharmacy Management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\bin\Debug\net8.0\Pharmacy Management.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\refint\Pharmacy Management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\Pharmacy Management.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Pharmacy Management\Pharmacy Management\obj\Debug\net8.0\ref\Pharmacy Management.dll
